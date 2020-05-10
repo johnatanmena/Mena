@@ -1,6 +1,0 @@
-azure-functions
-sklearn
-pandas
-pyodbc
-joblib
- 
